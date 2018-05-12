@@ -1,0 +1,29 @@
+_repo: Doctor-Luttrell-s-First-Patient_22883
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carey, Rosa Nouchette
+    alias: Carey, R. Nouchette (Rosa Nouchette)
+    birthdate: 1840
+    deathdate: 1909
+    gutenberg_agent_id: '1352'
+    url: http://www.gutenberg.org/2009/agents/1352
+    wikipedia: https://en.wikipedia.org/wiki/Rosa_Nouchette_Carey
+description: ''
+gutenberg_issued: '2007-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22883'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: Doctor Luttrell's First Patient
+url: http://www.gutenberg.org/ebooks/22883
